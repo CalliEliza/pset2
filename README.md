@@ -1,2 +1,2 @@
 # pset2
-assignments for cs50
+Code for assignment for an online course.
